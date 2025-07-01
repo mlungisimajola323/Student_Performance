@@ -5,4 +5,12 @@ Predicting student exam scores based on academic and lifestyle features
 Use One Hot Encoding to convert non numerical features
 Standardize the features
 
-# Nice
+# Trained Models
+Train Linear Regression model
+Random Forest
+XGBoost
+Multilayer Perceptron (MLP)
+Principal Component Analysis (MLP)
+
+# Best Performing Model
+MLP with PCA
